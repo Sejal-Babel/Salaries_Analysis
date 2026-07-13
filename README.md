@@ -33,6 +33,8 @@ The project includes analysis of:
 
 The Tableau dashboard provides visual insights into employee distribution, management structure, and salary comparisons across departments.
 
+https://public.tableau.com/views/Salaries_analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Files
 
 - **SQL/** - SQL queries used for analysis
